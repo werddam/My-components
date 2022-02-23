@@ -1,2 +1,3 @@
-# My-components
-Testing components
+# Simple_footer
+
+Ez egy rövid szöveges fájl.
